@@ -1,0 +1,98 @@
+<theme>
+    <hideHeader />
+    <hideDividers />
+
+    <listLeftAlign />
+    <listTextOffsetX>0.1</listTextOffsetX>
+
+    <listPrimaryColor>333333</listPrimaryColor>
+    <listSelectorColor>00000011</listSelectorColor>
+
+    <listFont>
+        <path>./../general_art/alterebro-pixel-font.ttf</path>
+        <size>0.06</size>
+    </listFont>
+
+    <descriptionFont>
+        <path>./../general_art/alterebro-pixel-font.ttf</path>
+        <size>0.06</size>
+    </descriptionFont>
+
+    <menuScrollSound>./../sounds/GS25.wav</menuScrollSound>
+    <menuSelectSound>./../sounds/GS42.wav</menuSelectSound>
+    <menuBackSound>./../sounds/GS25.wav</menuBackSound>
+    <menuOpenSound>./../sounds/GS42.wav</menuOpenSound>
+
+    <boxBackground>./../general_art/bgPattern-Box.png</boxBackground>
+    <boxBackgroundTiled />
+    <fastSelectColor>333333</fastSelectColor>
+    <fastSelectFont>
+        <path>./../general_art/alterebro-pixel-font.ttf</path>
+        <size>0.26</size>
+    </fastSelectFont>
+
+    <component>
+        <type>image</type>
+        <path>./../general_art/bgPattern.png</path>
+        <pos>0 0</pos>
+        <dim>1 1</dim>
+        <tiled />
+    </component>
+
+    <component>
+        <type>image</type>
+        <path>./art/header.png</path>
+        <pos>0 0</pos>
+        <dim>0 0</dim>
+    </component>
+</theme>
+
+<basicTheme>
+    <hideHeader />
+    <hideDividers />
+
+    <listLeftAlign />
+    <listTextOffsetX>0.1</listTextOffsetX>
+
+    <listPrimaryColor>333333</listPrimaryColor>
+    <listSelectorColor>00000011</listSelectorColor>
+
+    <listFont>
+        <path>./../general_art/alterebro-pixel-font.ttf</path>
+        <size>0.06</size>
+    </listFont>
+
+    <descriptionFont>
+        <path>./../general_art/alterebro-pixel-font.ttf</path>
+        <size>0.06</size>
+    </descriptionFont>
+
+    <menuScrollSound>./../sounds/GS25.wav</menuScrollSound>
+    <menuSelectSound>./../sounds/GS42.wav</menuSelectSound>
+    <menuBackSound>./../sounds/GS25.wav</menuBackSound>
+    <menuOpenSound>./../sounds/GS42.wav</menuOpenSound>
+
+    <boxBackground>./../general_art/bgPattern-Box.png</boxBackground>
+    <boxBackgroundTiled />
+    <fastSelectColor>333333</fastSelectColor>
+    <fastSelectFont>
+        <path>./../general_art/alterebro-pixel-font.ttf</path>
+        <size>0.26</size>
+    </fastSelectFont>
+
+    <component>
+        <type>image</type>
+        <path>./../general_art/bgPattern.png</path>
+        <pos>0 0</pos>
+        <dim>1 1</dim>
+        <tiled />
+    </component>
+
+    <component>
+        <type>image</type>
+        <path>./art/header.png</path>
+        <pos>0 0</pos>
+        <dim>0 0</dim>
+    </component>
+
+</basicTheme>
